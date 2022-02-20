@@ -1,0 +1,14 @@
+{
+    "list": [
+       {
+          "name":"Euler.Kt",
+          "url":"https://github.com/gorauskas/Euler.Kt",
+          "desc":"Project euler solutions written in Kotlin"
+       },
+       {
+          "name":"tcr-life",
+          "url":"https://github.com/gorauskas/tcr-life",
+          "desc":"Simple GOL written using TCR"
+       }
+    ]
+ }

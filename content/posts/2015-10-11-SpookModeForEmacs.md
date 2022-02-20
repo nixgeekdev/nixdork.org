@@ -2,7 +2,6 @@
 title: "Spook Mode For Emacs"
 date: 2015-10-11T21:59:48-08:00
 tags: ['emacs']
-draft: true
 ---
 
 How about this for precient tin foil hat geekery...

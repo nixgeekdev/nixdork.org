@@ -2,7 +2,6 @@
 title: "REST API Guidance"
 date: 2015-04-05T11:33:41-08:00
 tags: ['rest', 'python','flask']
-draft: true
 ---
 
 REST APIs are a very common topic nowadays; they are part of almost every web

@@ -1,14 +1,24 @@
 {
-    "list": [
-       {
-          "name":"Euler.Kt",
-          "url":"https://github.com/gorauskas/Euler.Kt",
-          "desc":"Project euler solutions written in Kotlin"
-       },
-       {
-          "name":"tcr-life",
-          "url":"https://github.com/gorauskas/tcr-life",
-          "desc":"Simple GOL written using TCR"
-       }
-    ]
- }
+   "list": [
+      {
+         "name": "Sudoku Solver",
+         "url": "https://git.sr.ht/~gorauskas/sudoku",
+         "desc": "A sudoku solver in Kotlin"
+      },
+      {
+         "name": "Euler.Kt",
+         "url": "https://github.com/gorauskas/Euler.Kt",
+         "desc": "Project euler solutions written in Kotlin"
+      },
+      {
+         "name": "tcr-life",
+         "url": "https://github.com/gorauskas/tcr-life",
+         "desc": "Simple GOL written using TCR"
+      },
+      {
+         "name": "NixDork Labs",
+         "url": "https://github.com/nixdork/nixdork.org",
+         "desc": "Hugo blog - this site"
+      }
+   ]
+}

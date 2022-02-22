@@ -1,6 +1,6 @@
 ---
 title: "Time-Saving Tips for Python"
-date: 2015-04-05T11:01:26-08:00
+date: 2015-02-06T11:01:26-08:00
 tags: ['python']
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "Check number primality using Java 8 Streams"
+title: 'Check number primality using Java 8 Streams'
+slug: 'check-number-primality-using-java-streams'
 date: 2016-03-11T07:27:14-08:00
 tags: ['java']
 ---

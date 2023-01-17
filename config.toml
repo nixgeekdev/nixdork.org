@@ -37,7 +37,7 @@ weight = 5
   rss = true # generate rss feed. default value is false
   googleAnalyticsAsync = false # use asynchronous tracking. Synchronous tracking by default
   showAllPostsArchive = false # default
-  logo = "img/glider2.png"
+  logo = "img/glider.png"
   favicon = "img/favicon.ico"
 
   # Home page settings

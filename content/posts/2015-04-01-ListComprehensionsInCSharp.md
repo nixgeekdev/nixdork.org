@@ -1,5 +1,6 @@
 ---
-title: "List Comprehensions In CSharp"
+title: 'List Comprehensions In CSharp'
+slug: 'list-comprehensions-in-csharp'
 date: 2015-04-01T07:39:34-08:00
 tags: ['csharp']
 ---

@@ -1,5 +1,6 @@
 ---
-title: "Spook Mode For Emacs"
+title: 'Spook Mode For Emacs'
+slug: 'spook-mode-for-emacs'
 date: 2015-03-10T21:59:48-08:00
 tags: ['emacs']
 ---

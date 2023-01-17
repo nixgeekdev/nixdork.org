@@ -1,5 +1,6 @@
 ---
-title: "Time-Saving Tips for Python"
+title: 'Time-Saving Tips for Python'
+slug: 'time-saving-tips-for-python'
 date: 2015-02-06T11:01:26-08:00
 tags: ['python']
 ---

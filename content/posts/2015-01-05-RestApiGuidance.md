@@ -1,5 +1,6 @@
 ---
-title: "REST API Guidance"
+title: 'REST API Guidance'
+slug: 'rest-api-guidance'
 date: 2015-01-05T11:33:41-08:00
 tags: ['rest', 'python','flask']
 ---

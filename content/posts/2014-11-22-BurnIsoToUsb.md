@@ -1,5 +1,6 @@
 ---
-title: "How do I write a CD image to a USB flash drive?"
+title: 'How do I write a CD image to a USB flash drive?'
+slug: 'write-iso-to-usb'
 date: 2014-11-22T23:12:48-08:00
 tags: ['linux']
 ---

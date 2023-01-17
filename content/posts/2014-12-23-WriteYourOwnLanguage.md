@@ -1,5 +1,6 @@
 ---
-title: "So, you want to write your own language?"
+title: 'So, you want to write your own language?'
+slug: 'write-your-own-language'
 date: 2014-12-23T23:12:25-08:00
 tags: ['language']
 ---

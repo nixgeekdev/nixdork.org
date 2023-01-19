@@ -2,7 +2,7 @@
 title: 'Fixing package-query to pacman dependency in Arch Linux'
 slug: 'fixing-package-query-to-pacman-dependency-in-arch'
 date: 2015-01-16T19:07:51-08:00
-tags: ['linux','archlinux']
+tags: ['linux','arch']
 ---
 
 I was recently trying to update my Arch Linux system and I ran into a peculiar

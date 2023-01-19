@@ -2,7 +2,7 @@
 title: 'Grepping Multiple Files Recursively'
 slug: 'grepping-multiple-files-recursively'
 date: 2013-04-17T20:26:25-08:00
-tags: ['bash', 'linux', 'quick hacks']
+tags: ['bash', 'linux', 'hacks']
 ---
 
 Recently I was faced with the task of looking for the occurences of a variable
